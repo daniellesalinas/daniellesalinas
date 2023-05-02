@@ -1,5 +1,5 @@
-### Hi there 👋 My name is Danielle Leaton-Salinas.
----------------------------
+Hi there 👋 My name is Danielle Leaton-Salinas.
+===========================
 I'm a front-end developer specializing in CSS and React.
 ---------------------------
 

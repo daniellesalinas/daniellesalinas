@@ -19,4 +19,6 @@ I'm a front-end developer specializing in CSS and React.
 ### Contact
 
 <a href="https://www.linkedin.com/in/danielle-ls-111563248/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/118854114/235706664-8f81d8f6-8fb7-4ad4-baa9-73b8b5df8117.svg" width="32" height="32" /></a> &nbsp;
-<a href="https://www.buymeacoffee.com/dleatonsalinas" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/118854114/235707222-c952c84d-6890-4b6c-9687-7fe3b55d1e2a.svg" width="32" height="32" /></a>
+<a href="https://www.buymeacoffee.com/dleatonsalinas" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/118854114/235707222-c952c84d-6890-4b6c-9687-7fe3b55d1e2a.svg" width="32" height="32" /></a> &nbsp;
+<a href="mailto:daniellesalinas721@gmail.com"><img src="https://user-images.githubusercontent.com/118854114/235711205-627c9cfc-9380-4147-95e2-aca9f1b75679.png" width="32" height="32" /></a>
+

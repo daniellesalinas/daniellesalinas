@@ -1,6 +1,6 @@
 Hi there 👋 My name is Danielle Leaton-Salinas.
 ===========================
-I'm a front-end developer specializing in CSS and React.
+I'm a UI/UX designer and web developer specializing in CSS and React.
 ---------------------------
 *  😄 Pronouns: She / Her 
 *  🌎 I live in Kansas City, Missouri

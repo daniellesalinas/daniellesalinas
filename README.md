@@ -1,6 +1,6 @@
 Hi there 👋 My name is Danielle Leaton-Salinas.
 ===========================
-I'm a UI/UX designer and web developer specializing in CSS and React.
+I'm a UX/UI designer and web developer specializing in CSS and React.
 ---------------------------
 *  😄 Pronouns: She / Her 
 *  🌎 I live in Kansas City, Missouri
@@ -14,7 +14,9 @@ I'm a UI/UX designer and web developer specializing in CSS and React.
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/118854114/235705110-2d513827-333d-4c42-9511-397c2671b5d9.png" width="36" height="36" alt="JavaScript" /></a> &nbsp;
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/118854114/235705227-7a90a0b4-efe8-4ec9-bf0f-e349a1220b83.png" width="36" height="36" alt="React" /></a> &nbsp; 
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/118854114/235705461-6ccbccaf-1d06-4ff2-b6d4-a61c52b6d165.png" width="36" height="36" alt="Sass" /></a> &nbsp; 
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/118854114/235705537-fa74f014-6c2c-44c5-82ca-1e58293aa3e4.png" width="36" height="36" alt="TailwindCSS" /></a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/118854114/235705537-fa74f014-6c2c-44c5-82ca-1e58293aa3e4.png" width="36" height="36" alt="TailwindCSS" /></a>&nbsp; 
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://github.com/dleatonsalinas/dleatonsalinas/assets/118854114/2fa7d3d9-284c-4302-a44b-4f58a368a5e6" height="36" alt="Figma" /></a>
+
 
 ### Contact
 

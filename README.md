@@ -4,7 +4,7 @@ I'm a UX/UI designer and web developer specializing in CSS and React.
 ---------------------------
 *  😄 Pronouns: She / Her 
 *  🌎 I live in Kansas City, Missouri
-*  🖥️ See my portfolio by clicking <a target="_blank" rel="noreferrer" href='https://dleatonsalinas.github.io/react-portfolio/'>here</a>
+*  🖥️ See my portfolio by clicking <a target="_blank" rel="noreferrer" href='https://www.daniellesalinas.com/'>here</a>
 *  🧠 I'm currently learning Angular
 *  🤝 I would love to collaborate with you on a project
 

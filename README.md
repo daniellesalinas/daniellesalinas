@@ -1,4 +1,4 @@
-Hi there 👋 My name is Danielle Leaton-Salinas.
+Hi there 👋 My name is Danielle Salinas.
 ===========================
 I'm a UX/UI designer and web developer specializing in CSS and React.
 ---------------------------
